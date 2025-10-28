@@ -1,0 +1,25 @@
+2025-10-27 15:13:23,198 | INFO | Starting Hand Gesture Recognition System
+2025-10-27 15:13:25,973 | INFO | Camera initialized. Press 'q' to quit
+2025-10-27 15:13:25,973 | INFO | Target FPS: 1.00
+2025-10-27 15:13:26,317 | INFO | Frame 1 | Hand: Right | Fingers: None | Gesture: none | FPS: 1.00 | CPU: 12.2% | Memory: 12038.9 MB
+2025-10-27 15:13:27,032 | INFO | Frame 2 | Hand: Right | Fingers: None | Gesture: none | FPS: 0.99 | CPU: 12.5% | Memory: 12055.3 MB
+2025-10-27 15:13:28,048 | INFO | Frame 3 | Hand: None | Fingers: None | Gesture: None | FPS: 0.99 | CPU: 27.3% | Memory: 12056.4 MB
+2025-10-27 15:13:29,050 | INFO | Frame 4 | Hand: None | Fingers: None | Gesture: None | FPS: 0.98 | CPU: 18.8% | Memory: 12048.2 MB
+2025-10-27 15:13:30,064 | INFO | Frame 5 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.99 | CPU: 12.5% | Memory: 12039.4 MB
+2025-10-27 15:13:31,087 | INFO | Frame 6 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 12.5% | Memory: 12039.9 MB
+2025-10-27 15:13:32,106 | INFO | Frame 7 | Hand: Left | Fingers: None | Gesture: none | FPS: 0.98 | CPU: 17.4% | Memory: 12037.9 MB
+2025-10-27 15:13:33,129 | INFO | Frame 8 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 17.6% | Memory: 12036.9 MB
+2025-10-27 15:13:34,147 | INFO | Frame 9 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 25.0% | Memory: 12028.4 MB
+2025-10-27 15:13:35,174 | INFO | Frame 10 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 20.8% | Memory: 12035.7 MB
+2025-10-27 15:13:36,194 | INFO | Frame 11 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 16.7% | Memory: 12033.5 MB
+2025-10-27 15:13:37,207 | INFO | Frame 12 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.99 | CPU: 16.7% | Memory: 12027.6 MB
+2025-10-27 15:13:38,235 | INFO | Frame 13 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.97 | CPU: 16.7% | Memory: 12008.2 MB
+2025-10-27 15:13:39,255 | INFO | Frame 14 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 12.5% | Memory: 11999.3 MB
+2025-10-27 15:13:40,315 | INFO | Frame 15 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.99 | CPU: 100.0% | Memory: 12261.5 MB
+2025-10-27 15:13:41,297 | INFO | Frame 16 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 15.6% | Memory: 12117.4 MB
+2025-10-27 15:13:42,296 | INFO | Frame 17 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.99 | CPU: 12.5% | Memory: 12114.6 MB
+2025-10-27 15:13:43,322 | INFO | Frame 18 | Hand: Left | Fingers: 1 | Gesture: none | FPS: 0.98 | CPU: 50.0% | Memory: 12126.6 MB
+2025-10-27 15:13:44,339 | INFO | Frame 19 | Hand: None | Fingers: None | Gesture: None | FPS: 0.98 | CPU: 16.7% | Memory: 12125.8 MB
+2025-10-27 15:13:45,339 | INFO | Frame 20 | Hand: None | Fingers: None | Gesture: None | FPS: 0.98 | CPU: 12.5% | Memory: 12116.7 MB
+2025-10-27 15:13:45,840 | INFO | Quitting application
+2025-10-27 15:13:46,408 | INFO | Application closed. Total frames processed: 20

@@ -1,0 +1,8 @@
+2025-10-27 16:45:39,307 | INFO | ============================================================
+2025-10-27 16:45:39,315 | INFO | Starting SmolVLM-Only Hand Gesture Recognition System
+2025-10-27 16:45:39,317 | INFO | No MediaPipe fallback - using SmolVLM exclusively
+2025-10-27 16:45:39,319 | INFO | Model device: cpu
+2025-10-27 16:45:39,320 | INFO | ============================================================
+2025-10-27 16:45:46,028 | INFO | Camera initialized. Processing at 1 FPS. Press 'q' to quit
+2025-10-27 16:47:56,128 | INFO | Frame 1 | Hand: Left | Fingers: 5 | Gesture: none | FPS: 0.01 | CPU: 52.3% | Memory: 15020.4 MB | Response: User:<row_1_col_1><row_1_col_2><row_1_col_3><row_1_col_4>
+<row_2_col_1><row_2_col_2><row_2_col_3><ro

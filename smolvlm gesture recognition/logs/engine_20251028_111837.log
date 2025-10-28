@@ -1,0 +1,3 @@
+2025-10-28 11:18:37,107 | INFO | Static mode: Executing mediapipe approach
+2025-10-28 11:18:37,107 | INFO | Importing module: gesture_recognition
+2025-10-28 11:18:37,109 | ERROR | Failed to import module 'gesture_recognition': No module named 'cv2'

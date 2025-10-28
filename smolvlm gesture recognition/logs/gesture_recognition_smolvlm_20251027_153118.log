@@ -1,0 +1,35 @@
+2025-10-27 15:31:19,006 | INFO | ============================================================
+2025-10-27 15:31:19,011 | INFO | Starting SmolVLM-Only Hand Gesture Recognition System
+2025-10-27 15:31:19,011 | INFO | No MediaPipe fallback - using SmolVLM exclusively
+2025-10-27 15:31:19,012 | INFO | Model device: cpu
+2025-10-27 15:31:19,012 | INFO | ============================================================
+2025-10-27 15:31:23,853 | INFO | Camera initialized. Processing at 1 FPS. Press 'q' to quit
+2025-10-27 15:31:24,613 | INFO | Frame 1 | Hand: None | Fingers: None | Gesture: None | FPS: 2.83 | CPU: 23.2% | Memory: 10609.3 MB
+2025-10-27 15:31:25,070 | INFO | Frame 2 | Hand: None | Fingers: None | Gesture: None | FPS: 4.68 | CPU: 24.4% | Memory: 10535.4 MB
+2025-10-27 15:31:26,127 | INFO | Frame 3 | Hand: None | Fingers: None | Gesture: None | FPS: 3.72 | CPU: 7.2% | Memory: 10334.1 MB
+2025-10-27 15:31:27,070 | INFO | Frame 4 | Hand: None | Fingers: None | Gesture: None | FPS: 5.27 | CPU: 12.2% | Memory: 10289.4 MB
+2025-10-27 15:31:28,125 | INFO | Frame 5 | Hand: None | Fingers: None | Gesture: None | FPS: 5.17 | CPU: 6.7% | Memory: 10158.1 MB
+2025-10-27 15:31:29,141 | INFO | Frame 6 | Hand: None | Fingers: None | Gesture: None | FPS: 5.26 | CPU: 10.7% | Memory: 9925.0 MB
+2025-10-27 15:31:30,172 | INFO | Frame 7 | Hand: None | Fingers: None | Gesture: None | FPS: 5.00 | CPU: 8.3% | Memory: 9934.5 MB
+2025-10-27 15:31:31,165 | INFO | Frame 8 | Hand: None | Fingers: None | Gesture: None | FPS: 5.46 | CPU: 8.5% | Memory: 9929.0 MB
+2025-10-27 15:31:32,168 | INFO | Frame 9 | Hand: None | Fingers: None | Gesture: None | FPS: 5.27 | CPU: 4.6% | Memory: 9937.7 MB
+2025-10-27 15:31:33,181 | INFO | Frame 10 | Hand: None | Fingers: None | Gesture: None | FPS: 5.53 | CPU: 5.3% | Memory: 9937.4 MB
+2025-10-27 15:31:34,243 | INFO | Frame 11 | Hand: None | Fingers: None | Gesture: None | FPS: 4.29 | CPU: 10.3% | Memory: 9939.1 MB
+2025-10-27 15:31:35,189 | INFO | Frame 12 | Hand: None | Fingers: None | Gesture: None | FPS: 5.48 | CPU: 7.1% | Memory: 9937.4 MB
+2025-10-27 15:31:36,205 | INFO | Frame 13 | Hand: None | Fingers: None | Gesture: None | FPS: 5.41 | CPU: 7.3% | Memory: 9937.3 MB
+2025-10-27 15:31:37,209 | INFO | Frame 14 | Hand: None | Fingers: None | Gesture: None | FPS: 5.32 | CPU: 7.4% | Memory: 9933.7 MB
+2025-10-27 15:31:38,235 | INFO | Frame 15 | Hand: None | Fingers: None | Gesture: None | FPS: 5.52 | CPU: 5.1% | Memory: 9933.4 MB
+2025-10-27 15:31:39,262 | INFO | Frame 16 | Hand: None | Fingers: None | Gesture: None | FPS: 5.44 | CPU: 9.2% | Memory: 9941.4 MB
+2025-10-27 15:31:40,274 | INFO | Frame 17 | Hand: None | Fingers: None | Gesture: None | FPS: 5.71 | CPU: 7.8% | Memory: 9945.1 MB
+2025-10-27 15:31:41,297 | INFO | Frame 18 | Hand: None | Fingers: None | Gesture: None | FPS: 5.10 | CPU: 5.7% | Memory: 9945.8 MB
+2025-10-27 15:31:42,307 | INFO | Frame 19 | Hand: None | Fingers: None | Gesture: None | FPS: 5.39 | CPU: 6.4% | Memory: 9942.8 MB
+2025-10-27 15:31:43,320 | INFO | Frame 20 | Hand: None | Fingers: None | Gesture: None | FPS: 5.24 | CPU: 5.8% | Memory: 9955.6 MB
+2025-10-27 15:31:44,340 | INFO | Frame 21 | Hand: None | Fingers: None | Gesture: None | FPS: 5.14 | CPU: 8.4% | Memory: 9984.3 MB
+2025-10-27 15:31:45,330 | INFO | Frame 22 | Hand: None | Fingers: None | Gesture: None | FPS: 5.47 | CPU: 7.1% | Memory: 9980.8 MB
+2025-10-27 15:31:46,342 | INFO | Frame 23 | Hand: None | Fingers: None | Gesture: None | FPS: 5.53 | CPU: 5.7% | Memory: 9986.4 MB
+2025-10-27 15:31:47,368 | INFO | Frame 24 | Hand: None | Fingers: None | Gesture: None | FPS: 5.29 | CPU: 6.9% | Memory: 9983.6 MB
+2025-10-27 15:31:48,379 | INFO | Frame 25 | Hand: None | Fingers: None | Gesture: None | FPS: 4.93 | CPU: 9.0% | Memory: 9999.3 MB
+2025-10-27 15:31:48,780 | INFO | Quitting application
+2025-10-27 15:31:49,173 | INFO | ============================================================
+2025-10-27 15:31:49,175 | INFO | Session complete. Total frames: 25, Avg FPS: 5.10
+2025-10-27 15:31:49,176 | INFO | ============================================================

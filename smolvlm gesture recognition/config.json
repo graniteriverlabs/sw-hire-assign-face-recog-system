@@ -1,0 +1,34 @@
+{
+  "mode": "static",
+  "approach": "mediapipe",
+  "camera_index": 0,
+  "frame_interval": 1.0,
+  "logging": {
+    "enabled": true,
+    "log_dir": "logs"
+  },
+  "dynamic": {
+    "enabled": false,
+    "performance_thresholds": {
+      "max_latency_ms": 1000,
+      "max_cpu_percent": 80,
+      "max_memory_mb": 2000,
+      "min_fps": 0.8
+    },
+    "evaluation_window": 5,
+    "switch_cooldown_seconds": 10
+  },
+  "approaches": {
+    "mediapipe": {
+      "module": "gesture_recognition",
+      "main_function": "main",
+      "description": "MediaPipe-based hand gesture recognition - Fast and lightweight"
+    },
+    "smolvlm": {
+      "module": "gesture_recognition_smolvlm_only",
+      "main_function": "main",
+      "description": "SmolVLM-based hand gesture recognition - Advanced but slower"
+    }
+  }
+}
+

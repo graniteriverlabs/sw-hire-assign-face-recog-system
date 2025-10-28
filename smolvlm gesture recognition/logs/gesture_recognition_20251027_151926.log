@@ -1,0 +1,5 @@
+2025-10-27 15:19:26,738 | INFO | Starting Advanced Hand Gesture Recognition System
+2025-10-27 15:19:26,739 | INFO | Running in MediaPipe-only mode
+2025-10-27 15:19:29,899 | INFO | Camera initialized. Press 'q' to quit
+2025-10-27 15:19:29,900 | INFO | Target FPS: 1.00
+2025-10-27 15:19:30,223 | INFO | Frame 1 | Hand: None | Fingers: None | Gesture: None | FPS: 34.53 | CPU: 60.0% | Memory: 12082.7 MB
